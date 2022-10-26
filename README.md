@@ -94,11 +94,6 @@ The steps for this Challenge are divided into the following sections:
 
 <img width="1299" alt="Screen Shot 2022-10-27 at 3 59 28 PM" src="https://user-images.githubusercontent.com/80833988/128267224-a12df8fc-f472-4a6c-bd8c-c09426d17dd3.png">
 
-##### Include a screenshot of the provided transaction details. 
-
-
-<img width="848" alt="Screen Shot 2022-10-27 at 4 14 36 PM" src="https://user-images.githubusercontent.com/80833988/128267348-ed4419ef-5732-476e-a935-bc51418117fd.png">
-
 
 ##### Provide screenshots from Etherscan that show the sender’s address balance and history, and the recipient's address balance and history. 
 
